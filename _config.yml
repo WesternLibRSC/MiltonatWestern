@@ -22,12 +22,12 @@ source-code: https://github.com/WesternLibRSC/MiltonLibrary
 # title of site appears in banner
 title: Milton Library
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: This is Test
+tagline: Highlighting the Milton Collection at Western Libraries
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "CollectionBuilder-GH is a template for creating small digital collection exhibits on GitHub Pages designed for teaching digital library skills"
+description: "This small collection highlights engravings found in the Milton Collection at Western Libraries, Ontario Canada."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: CollectionBuilder
+author: WesternLibRSC
 
 ##########
 # COLLECTION SETTINGS
@@ -40,8 +40,8 @@ metadata: MiltonMetadata
 #   Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 #
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
-# organization-link: https://cdil.lib.uidaho.edu/
-# organization-logo-banner: https://cdil.lib.uidaho.edu/storying-extinction/assets/img/cdil.png
+# organization-link: https://www.lib.uwo.ca/
+# organization-logo-banner: https://www.uwo.ca/web_standards/img/logos-sub-brand/svg/Western_Logo_H_Libraries_RGB.svg
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 
