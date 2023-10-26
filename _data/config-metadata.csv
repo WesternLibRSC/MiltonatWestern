@@ -4,9 +4,9 @@ creator,Creator,
 date,Date Created,
 description,Description,
 subject,Subjects,true
-illustrator,Illustrator
-painter,Painter
-engraver,Engraver
+illustrator,Illustrator,true
+painter,Painter,true
+engraver,Engraver,true
 location,Location
 latitude,Latitude
 longitude,Longitude
