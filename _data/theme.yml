@@ -30,14 +30,14 @@ subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g.
 ##########
 # ILLUSTRATORS PAGE
 #
-illustators-fields: illustrator;creator # set the field to be featured in the cloud (if left blank, none will be generated)
+illustators-fields: illustrator # set the field to be featured in the cloud (if left blank, none will be generated)
 illustrators-min: 1 # min size for subject cloud, too many terms = slow load time!
 illustrators-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
 # ENGRAVERS PAGE
 #
-engravers-fields: engraver;creator # set the field to be featured in the cloud (if left blank, none will be generated)
+engravers-fields: engraver # set the field to be featured in the cloud (if left blank, none will be generated)
 engravers-min: 1 # min size for subject cloud, too many terms = slow load time!
 engravers-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
