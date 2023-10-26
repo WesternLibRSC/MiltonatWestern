@@ -28,11 +28,11 @@ subjects-min: 1 # min size for subject cloud, too many terms = slow load time!
 subjects-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
-# ILLUSTRATORS PAGE
+# ILLUSTRATOR PAGE
 #
-illustators-fields: illustrator # set the field to be featured in the cloud (if left blank, none will be generated)
-illustrators-min: 1 # min size for subject cloud, too many terms = slow load time!
-illustrators-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
+cloud-fields: illustrator # set the field to be featured in the cloud (if left blank, none will be generated)
+cloud-min: 1 # min size for subject cloud, too many terms = slow load time!
+cloud-stopwords: # boxers;boxing;boxer # set of subjects separated by ;, e.g. boxers;boxing
 
 ##########
 # ENGRAVERS PAGE
