@@ -8,7 +8,7 @@ permalink: /subjectcontents.html
 cloud-fields: subjectcontents
 ---
 
-Browse Image Content
+## Browse Image Content
 
 Use this word cloud visualization to browse image content.
 Word size is determined by frequency and all words link to a corresponding collection search.
