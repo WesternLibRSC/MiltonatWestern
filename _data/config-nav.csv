@@ -1,12 +1,13 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Image Tags,,
+Image Tags,
 Bibliographic,/subjectbibliographic.html,Image Tags
 Content,/subjectcontents.html,Image Tags
 Engravers,/engraver.html,Image Tags
 Illustrators,/illustrator.html,Image Tags
 Painters,/painter.html,Image Tags
+Videos/videos.html,
 Locations,/locations.html,
 Map,/map.html,
 Timeline,/timeline.html,
