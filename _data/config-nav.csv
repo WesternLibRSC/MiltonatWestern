@@ -1,7 +1,7 @@
 display_name,stub,dropdown_parent
 Home,/,
 Browse,/browse.html,
-Image Tags,
+Image Tags,,
 Bibliographic,/subjectbibliographic.html,Image Tags
 Content,/subjectcontents.html,Image Tags
 Engravers,/engraver.html,Image Tags
