@@ -8,7 +8,7 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/nav-menu.html sections="About the Collection;About the team" %}
+{% include feature/nav-menu.html sections="About the Collection;About the John Leonard's Project;About the team" %}
 
 ## About the Collection
 
@@ -20,6 +20,13 @@ The template repository features four objects from the University of Idaho Libra
 
 For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
 
+## About the John Leonard's Project
+
 ## About the team
+
+This site was created by.... 
+RSC is.... Link?
+
+
 
  
