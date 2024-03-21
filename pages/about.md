@@ -12,6 +12,8 @@ credits: true
 
 ## About the Collection
 
+The University of Western Ontario’s Archives and Special Collections boast numerous unique collections, with one standout being the G. William Stuart Collection of Milton and Miltoniana. Acquired by Western in 1968 and expanded over the years, it stands as Canada’s foremost collection of its kind. Housing a comprehensive array of John Milton's works, from early editions to later ones, including multiple copies of the 1645 Poems and over a hundred editions of Paradise Lost, the collection is enriched further with seventeenth-century political and religious imprints, featuring numerous pamphlets.
+
 This site higlights the Milton Collection at Western University and on going Milton research & projects. Blah... blah... blah...
 - a CSV of collection metadata
 - a folder of JPG images or PDF documents
@@ -26,8 +28,9 @@ This site was created in by Research & Scholarly Communication team. Our team co
 
 Milton@Western credits:
 
-Joanne Pateron - RSC Librarian
-Arielle VanderSchans - RSC Library Assistant
+<li>Joanne Pateron - RSC Librarian</li>
+<li>Arielle VanderSchans - RSC Library Assistant</li>
+<li>Yeliz</li>
 
 ## About John Leonard's Project
 
