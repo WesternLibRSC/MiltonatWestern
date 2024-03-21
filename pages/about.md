@@ -20,7 +20,7 @@ This site higlights the Milton Collection at Western University and on going Mil
 
 This site was created in by Research & Scholarly Communication (RSC) team. Our team collaborates with researchers across campus to advance the creation, management, dissemination, and preservation of your research and scholarship. Questions or have your own project? Email us at rsclib@uwo.ca
 
-Milton@Western was created by Yeliz Baloglu Cengay (co-op student), Arielle VanderSchans (library assistant), and Joanne Paterson (Research & Scholarly Communication Librarian).
+Milton@Western was created by Yeliz Baloglu Cengay (RSC co-op student), <a href="https://www.lib.uwo.ca/contact/staff/arielle_vanderschans.html">Arielle VanderSchans</a> (RSC library assistant), and <a href="https://www.lib.uwo.ca/contact/staff/joanne_paterson.html">Joanne Paterson</a> (RSC Librarian).
 
 ## About John Leonard's Project
 
