@@ -1,7 +1,7 @@
 ---
-title: Videos
+title: Projects
 layout: about
-permalink: /videos.html
+permalink: /projects.html
 ---
  <div>
  {% include index/description.html %}
