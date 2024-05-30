@@ -1,5 +1,4 @@
 field,display_name,search
 date,Date,true
-creator,Creator,true
-subject,Subjects,true
+streetaddress,Street/Building,true
 location,Location,true
