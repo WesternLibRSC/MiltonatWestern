@@ -3,7 +3,9 @@ title: Projects
 layout: about
 permalink: /projects.html
 ---
- ## About John Leonard's Project
+{% include feature/nav-menu.html sections="Milton Recordings; Milton Bibliography" %}
+
+## Milton Recordings
 
 Dr. John Leonard's area of interest in both teaching and research is John Milton’s poetry, which he has edited for Penguin Classics. His most recent book, a reception history of Paradise Lost entitled Faithful Labourers, has been published in two volumes by Oxford University Press in January 2013. This passion project of Dr. Leonards resulted from lockdown time during COVID, during this time he decided to record himself reading Paradise Lost. 
 
