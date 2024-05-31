@@ -14,21 +14,13 @@ credits: true
 
 The University of Western Ontario’s Archives and Special Collections boast numerous unique collections, with one standout being the G. William Stuart Collection of Milton and Miltoniana. Acquired by Western in 1968 and expanded over the years, it stands as Canada’s foremost collection of its kind. Housing a comprehensive array of John Milton's works, from early editions to later ones, including multiple copies of the 1645 Poems and over a hundred editions of Paradise Lost, the collection is enriched further with seventeenth-century political and religious imprints, featuring numerous pamphlets.
 
-This site higlights the Milton Collection at Western University and on going Milton research & projects. You browse the images scanned from the Milton collection generally or filter using the image tags. High resoulution copies of the images will be available on <a href="https://ir.lib.uwo.ca/miltonatwestern/">Scholarship@Western</a>.
+This site higlights the Milton Collection at Western University and on going Milton research & projects. You browse the images scanned from the Milton collection generally or filter using the image tags. High resoulution copies of the images will be available on <a href="https://ir.lib.uwo.ca/miltonatwestern/">Scholarship@Western</a> (coming soon).
 
 ## About the Team
 
-This site was created in by Research & Scholarly Communication (RSC) team. Our team collaborates with researchers across campus to advance the creation, management, dissemination, and preservation of your research and scholarship. Questions or have your own project? Email us at rsclib@uwo.ca
+This site was created by Research & Scholarly Communication (RSC) team. Our team collaborates with researchers across campus to advance the creation, management, dissemination, and preservation of research and scholarship. Questions about this site or have your own project? Email us at rsclib@uwo.ca
 
-Milton@Western was created by Yeliz Baloglu Cengay (RSC co-op student), <a href="https://www.lib.uwo.ca/contact/staff/arielle_vanderschans.html">Arielle VanderSchans</a> (RSC library assistant), and <a href="https://www.lib.uwo.ca/contact/staff/joanne_paterson.html">Joanne Paterson</a> (RSC Librarian).
-
-## About John Leonard's Project
-
-Dr. John Leonard's area of interest in both teaching and research is John Milton’s poetry, which he has edited for Penguin Classics. His most recent book, a reception history of Paradise Lost entitled Faithful Labourers, has been published in two volumes by Oxford University Press in January 2013. This passion project of Dr. Leonards resulted from lockdown time during COVID, during this time he decided to record himself reading Paradise Lost. 
-
-Looking for a home for his videos and means to illustrate them, Dr. Leonard reached out to Western Archvies. Deb Meert-Williston connect him with the RSC team. The RSC team supplied the scanned images and Dr. Leonard's son, Alex Leonard, helped incorpate them into the video along with images created by Dr. Leonard through AI, and images from other Milton holdings around the world. With a desire to showcase the videos and the Milton collection Milton@Western was born. 
-
-Alex Leonard is the Founder & CEO of AL Media and can be found: <a href="https://ir.lib.uwo.ca/miltonatwestern/">info@alexleonardmedia.com</a> and <a href="https://ir.lib.uwo.ca/miltonatwestern/">www.alexleonardmedia.com</a>
+Milton@Western was created by Yeliz Baloglu Cengay (RSC co-op student), <a href="https://www.lib.uwo.ca/contact/staff/arielle_vanderschans.html">Arielle VanderSchans</a> (RSC Library Assistant), and <a href="https://www.lib.uwo.ca/contact/staff/joanne_paterson.html">Joanne Paterson</a> (RSC Librarian).
 
 ## Rights and Use Statement for Digitized Materials
 
