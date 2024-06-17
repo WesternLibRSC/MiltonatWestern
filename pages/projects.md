@@ -16,7 +16,7 @@ Alex Leonard is the Founder & CEO of AL Media and can be found: <a href="https:/
 To view Dr. Leonard's records visit: <a href="https://ir.lib.uwo.ca/miltonatwestern_paradiselost_recordings/">Paradise Lost Recordings</a>
 
  <div>
-    {% include feature/video.html objectid="https://www.dropbox.com/scl/fi/533y6885ttuv0bno54vk0/2023-09-12-Paradise-Lost-Book-2-John-Leonard-Final-Version.mp4?raw=1&rlkey=bcl4q4y2i7wczthfp25iwsdie&dl=0" height="300" caption="Paradise Lost Book 2 - John Leonard Recording" %}
+    {% include feature/video.html objectid="https://www.dropbox.com/scl/fi/533y6885ttuv0bno54vk0/2023-09-12-Paradise-Lost-Book-2-John-Leonard-Final-Version.mp4?raw=1&rlkey=bcl4q4y2i7wczthfp25iwsdie&dl=0" width="50" caption="Paradise Lost Book 2 - John Leonard Recording" %}
  </div>
  
 ## Milton Bibliography
