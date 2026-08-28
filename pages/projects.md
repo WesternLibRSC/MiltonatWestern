@@ -13,6 +13,7 @@ Looking for a home for his videos and means to illustrate them, Dr. Leonard reac
 
 Alex Leonard is the Founder & CEO of AL Media and can be found: <a href="https://ir.lib.uwo.ca/miltonatwestern/">info@alexleonardmedia.com</a> and <a href="https://ir.lib.uwo.ca/miltonatwestern/">www.alexleonardmedia.com</a>
 
+Access to the recordings are forthcoming.
  
 ## Milton Bibliography
 
